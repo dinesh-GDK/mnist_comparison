@@ -1,0 +1,6 @@
+notebook
+matplotlib
+idx2numpy
+tqdm
+tensorflow
+torch
