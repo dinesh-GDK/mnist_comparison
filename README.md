@@ -35,7 +35,7 @@ All the models were trained and tested using only the CPU.
 | PyTorch model    | 97.41        | 44.41               |
 | TensorFlow model | 97.45        | 27.36               |
 
-Observing the above table, we can conclude that all three models performed almost similarly in terms of time and accuracy.
+Observing the above table, we can conclude that all three models performed almost similarly in terms of accuracy.
 
 Well, our model is on par with the top deep learning frameworks (at least while performing all operations in CPU).
 
