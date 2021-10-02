@@ -31,9 +31,9 @@ All the models were trained and tested using only the CPU.
 
 | Model            | Accuracy (%) | Training Time (min) |
 |------------------|--------------|---------------------|
-| Custom model     | 97.15        | 38.95               |
-| PyTorch model    | 97.07        | 39.75               |
-| TensorFlow model | 97.49        | 30.30               |
+| Custom model     | 97.60        | 45.45               |
+| PyTorch model    | 97.41        | 44.41               |
+| TensorFlow model | 97.45        | 27.36               |
 
 Observing the above table, we can conclude that all three models performed almost similarly in terms of time and accuracy.
 
