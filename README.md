@@ -31,11 +31,10 @@ All the models were trained and tested using only the CPU.
 
 | Model            | Accuracy (%) | Training Time (min) |
 |------------------|--------------|---------------------|
-| Custom model     | 97.60        | 45.45               |
-| PyTorch model    | 97.41        | 44.41               |
-| TensorFlow model | 97.45        | 27.36               |
+| Custom model     | 97.23        | 5.88                |
+| PyTorch model    | 97.45        | 7.41                |
+| TensorFlow model | 97.56        | 19.92               |
 
 Observing the above table, we can conclude that all three models performed almost similarly in terms of accuracy.
 
 Well, our model is on par with the top deep learning frameworks (at least while performing all operations in CPU).
-
