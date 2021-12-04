@@ -2,5 +2,5 @@ notebook==6.4.3
 matplotlib==3.4.3
 idx2numpy==1.2.3
 tqdm==4.62.2
-tensorflow==2.6.0
+tensorflow==2.6.1
 torch==1.9.0
